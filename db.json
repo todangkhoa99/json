@@ -1,4 +1,6 @@
 {
+  "db2id" :
+{
   "db": "BLUDB",
   "dsn": "DATABASE=BLUDB;HOSTNAME=dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net;PORT=50000;PROTOCOL=TCPIP;UID=fhv93829;PWD=tg16wdkjh75w3j+m;",
   "host": "dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net",
@@ -14,4 +16,5 @@
   "ssljdbcurl": "jdbc:db2://dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net:50001/BLUDB:sslConnection=true;",
   "uri": "db2://fhv93829:tg16wdkjh75w3j%2Bm@dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net:50000/BLUDB",
   "username": "fhv93829"
+}
 }
